@@ -17,11 +17,11 @@ I've tried to make Suhail **as user-friendly as possible** so that even people w
 * An inoffensive little guy for emotional support
 * Literally nothing else
 
-![A screenshot of the UI placed here to showcase how simple it is.](https://files.catbox.moe/i22jn5.png)
-![Ditto, but this time with files displayed.](https://files.catbox.moe/77z3t7.png)
+![A screenshot of the UI placed here to showcase how simple it is.](https://catskulls.place/img/suhail02.png)
+![A screenshot of a popup featuring Suhail. He's a lovely little guy.](https://catskulls.place/img/suhail04.png)
 
 
-*P.S. This is my first Python project and I made it during a stressful all-nighter. I come from the land of JavaScript. Please have mercy*
+*P.S. This is my first Python project and I made it during a stressful all-nighter in order to escape my personal turmoil. I come from the land of JavaScript. Please have mercy*
 
 ## Getting Started
 
@@ -34,13 +34,6 @@ It might also help if you plug your MP3 player into your computer before you sta
 
 This is most likely an encoding issue. The device recognizes the file but cannot read the text properly. If your device is, for example, in Japanese, choose the correct encoding option for it. They've been haphazardly labeled for your convenience. You can also go change the encoding of a M3U file by opening it in Notepad.
 
-#### *"The encoding is correct, but the files Suhail is generating don't work on my device!"*
-
-Very much possible!
-
-Suhail has been tested exclusively on a Sony Walkman NW-S13. This means I've tested the Shift_JIS encoding exclusively and the resulting M3U files have only been tested on my device. I'd guess that a program as simple as this one should generate valid playlists for a multitude of devices, but older tech is a complete fucking tossup and I cannot guarantee anything
-
-
 ## FAQ
 
 #### *"Why is the program an anime boy?"*
@@ -49,14 +42,12 @@ We need more whimsy and joy in our lives.
 
 #### *"Does this run on Linux/MacOS?"*
 
-Not sure! Haven't tested! Not a priority, really. I could work this out on Ubuntu at some point, but MacOS users are on their own.
+No
 
+#### *"Will this ever run on Linux/MacOS?"*
 
-## Authors
-Ellen alias Catskulls 
-[catskulls.place](https://catskulls.place/)
-
+No
 
 
 #### Acknowledgments
-Shout out to Kent Ito and his 1 minute 18 second cover of Magic Number I had on loop for 10 hours straight making this. Also Lisdexamfetamine
+Shout out to Kent Ito and his 1 minute 18 second cover of Magic Number I had on loop for 10 hours straight making this
